@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BirddoCode
+- 👋 Hi, I’m @Alden Wongso
 - 👀 I’m interested in anime, programming and youtuber.
 - 🌱 I’m currently learning computer science in university
 - 💞️ I’m looking to collaborate on many things
